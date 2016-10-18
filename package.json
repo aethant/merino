@@ -1,10 +1,11 @@
 {
   "name": "merino",
-  "version": "1.0.4",
   "description": "Warm-up your Yarn cache",
   "main": "index.js",
+  "version": "0.0.0-semantic",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "keywords": [
     "yarn",
@@ -516,11 +517,12 @@
   },
   "devDependencies": {
     "coffee-script": "^1.11.1",
-    "mocha": "^3.1.2"
+    "mocha": "^3.1.2",
+    "semantic-release": "^4.3.5"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aethant/merino.git"
+    "url": "https://github.com/aethant/merino.git"
   },
   "bugs": {
     "url": "https://github.com/aethant/merino/issues"
