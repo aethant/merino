@@ -121,5 +121,17 @@
     "yargs": "^6.2.0",
     "yeoman-generator": "^0.24.1",
     "yosay": "^1.2.1"
-  }
+  },
+  "devDependencies": {
+    "coffee-script": "^1.11.1",
+    "mocha": "^3.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aethant/merino.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aethant/merino/issues"
+  },
+  "homepage": "https://github.com/aethant/merino#readme"
 }
