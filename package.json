@@ -518,6 +518,7 @@
   },
   "devDependencies": {
     "coffee-script": "^1.11.1",
+    "cz-conventional-changelog": "^1.2.0",
     "mocha": "^3.1.2",
     "semantic-release": "^4.3.5"
   },
@@ -528,5 +529,10 @@
   "bugs": {
     "url": "https://github.com/aethant/merino/issues"
   },
-  "homepage": "https://github.com/aethant/merino#readme"
+  "homepage": "https://github.com/aethant/merino#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
