@@ -1,6 +1,6 @@
 {
   "name": "merino",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Warm-up your Yarn cache",
   "main": "index.js",
   "scripts": {
