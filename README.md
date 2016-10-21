@@ -6,7 +6,9 @@ From the [Yarn repo documentation](https://github.com/yarnpkg/yarn):
 Having that in mind and inspiried by Kent C. Dodds' [mention of the idea](https://twitter.com/kentcdodds/status/788420794984521729), Merino will allow you to prime your cache with a single module.
 
 ##### Install
-        yarn add merino
+```
+ yarn add merino && yarn remove merino
+```
         
 ##### Credits
 * [Kent C. Dodds](https://github.com/kentcdodds)
