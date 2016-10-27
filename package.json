@@ -138,7 +138,7 @@
     "dotenv": "^2.0.0",
     "download": "^5.0.2",
     "ejs": "^2.5.2",
-    "elasticsearch": "^11.0.1",
+    "elasticsearch": "^12.0.0",
     "ember-cli-babel": "^5.1.10",
     "ember-cli-htmlbars": "^1.1.0",
     "errorhandler": "^1.4.3",
