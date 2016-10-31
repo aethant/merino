@@ -400,7 +400,7 @@
     "react-tap-event-plugin": "^1.0.0",
     "read": "^1.0.7",
     "readable-stream": "^2.1.5",
-    "readline-sync": "^1.4.4",
+    "readline-sync": "^1.4.5",
     "recursive-readdir": "^2.1.0",
     "redis": "^2.6.2",
     "redux": "^3.6.0",
