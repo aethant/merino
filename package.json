@@ -180,7 +180,7 @@
     "fs-promise": "^0.5.0",
     "fstream": "^1.0.10",
     "gaze": "^1.1.2",
-    "generic-pool": "^2.4.3",
+    "generic-pool": "^3.0.0",
     "get-stdin": "^5.0.1",
     "github": "^6.0.1",
     "glob": "^7.1.1",
