@@ -206,7 +206,7 @@
     "gulp-eslint": "^3.0.1",
     "gulp-filter": "^4.0.0",
     "gulp-if": "^2.0.1",
-    "gulp-imagemin": "^3.0.3",
+    "gulp-imagemin": "^3.1.0",
     "gulp-install": "^0.6.0",
     "gulp-jshint": "^2.0.1",
     "gulp-less": "^3.1.0",
