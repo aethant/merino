@@ -290,7 +290,7 @@
     "lodash.foreach": "^4.5.0",
     "lodash.merge": "^4.6.0",
     "log-symbols": "^1.0.2",
-    "log4js": "^0.6.38",
+    "log4js": "^1.0.0",
     "lru-cache": "^4.0.1",
     "machine": "^12.4.0",
     "map-stream": "^0.0.6",
