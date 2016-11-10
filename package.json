@@ -81,7 +81,7 @@
     "bunyan": "^1.8.2",
     "byline": "^5.0.0",
     "bytes": "^2.4.0",
-    "camelcase": "^3.0.0",
+    "camelcase": "^4.0.0",
     "canvas": "^1.6.2",
     "chai": "^3.5.0",
     "chalk": "^1.1.3",
