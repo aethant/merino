@@ -177,7 +177,7 @@
     "formidable": "^1.0.17",
     "fs": "^0.0.1-security",
     "fs-extra": "^1.0.0",
-    "fs-promise": "^0.5.0",
+    "fs-promise": "^1.0.0",
     "fstream": "^1.0.10",
     "gaze": "^1.1.2",
     "generic-pool": "^3.0.0",
