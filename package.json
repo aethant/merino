@@ -497,7 +497,7 @@
     "webpack-dev-server": "^1.16.2",
     "webpack-hot-middleware": "^2.13.1",
     "websocket": "^1.0.23",
-    "whatwg-fetch": "^1.0.0",
+    "whatwg-fetch": "^2.0.0",
     "when": "^3.7.7",
     "which": "^1.2.11",
     "winston": "^2.2.0",
