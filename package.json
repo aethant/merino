@@ -450,7 +450,7 @@
     "style-loader": "^0.13.1",
     "stylus": "^0.54.5",
     "sugar": "^2.0.1",
-    "superagent": "^2.3.0",
+    "superagent": "^3.0.0",
     "swig": "^1.4.2",
     "sync-request": "^3.0.1",
     "systemjs": "^0.19.39",
