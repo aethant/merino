@@ -514,7 +514,7 @@
     "yargs": "^6.2.0",
     "yeoman-generator": "^0.24.1",
     "yosay": "^1.2.1",
-    "zone.js": "^0.6.25"
+    "zone.js": "^0.7.0"
   },
   "devDependencies": {
     "coffee-script": "^1.11.1",
