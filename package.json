@@ -377,7 +377,7 @@
     "progress": "^1.1.8",
     "promise": "^7.1.1",
     "prompt": "^1.0.0",
-    "protobufjs": "^5.0.1",
+    "protobufjs": "^6.0.0",
     "pug": "^2.0.0-beta6",
     "pull-stream": "^3.5.0",
     "pump": "^1.0.1",
