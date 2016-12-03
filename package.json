@@ -97,7 +97,7 @@
     "clone": "^2.0.0",
     "co": "^4.6.0",
     "coffee-script": "^1.11.1",
-    "color": "^0.11.3",
+    "color": "^1.0.0",
     "colors": "^1.1.2",
     "command-line-args": "^3.0.2",
     "commander": "^2.9.0",
