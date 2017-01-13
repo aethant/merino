@@ -452,7 +452,7 @@
     "sugar": "^2.0.1",
     "superagent": "^3.0.0",
     "swig": "^1.4.2",
-    "sync-request": "^3.0.1",
+    "sync-request": "^4.0.1",
     "systemjs": "^0.19.39",
     "tape": "^4.6.2",
     "tar": "^2.2.1",
