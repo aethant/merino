@@ -334,7 +334,7 @@
     "node-uuid": "^1.4.7",
     "node.extend": "^1.1.6",
     "nodegit": "^0.17.0",
-    "nodemailer": "^2.6.4",
+    "nodemailer": "^3.0.2",
     "nodemon": "^1.11.0",
     "nomnom": "^1.8.1",
     "nopt": "^4.0.0",
