@@ -164,7 +164,7 @@
     "extend-shallow": "^2.0.1",
     "extract-text-webpack-plugin": "^1.0.1",
     "falafel": "^2.0.0",
-    "file-loader": "^0.9.0",
+    "file-loader": "^0.10.0",
     "filesize": "^3.3.0",
     "findit": "^2.0.0",
     "findup-sync": "^0.4.3",
