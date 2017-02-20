@@ -513,7 +513,7 @@
     "yamljs": "^0.2.8",
     "yargs": "^6.2.0",
     "yeoman-generator": "^1.0.0",
-    "yosay": "^1.2.1",
+    "yosay": "^2.0.0",
     "zone.js": "^0.7.1"
   },
   "devDependencies": {
