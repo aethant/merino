@@ -162,7 +162,7 @@
     "express-session": "^1.14.2",
     "extend": "^3.0.0",
     "extend-shallow": "^2.0.1",
-    "extract-text-webpack-plugin": "^1.0.1",
+    "extract-text-webpack-plugin": "^2.0.0",
     "falafel": "^2.0.0",
     "file-loader": "^0.10.0",
     "filesize": "^3.3.0",
