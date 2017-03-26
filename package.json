@@ -338,7 +338,7 @@
     "nodemon": "^1.11.0",
     "nomnom": "^1.8.1",
     "nopt": "^4.0.0",
-    "normalize.css": "^5.0.0",
+    "normalize.css": "^6.0.0",
     "npm": "^4.0.2",
     "npmlog": "^4.0.0",
     "numeral": "^2.0.0",
