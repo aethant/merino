@@ -139,7 +139,7 @@
     "download": "^5.0.2",
     "ejs": "^2.5.2",
     "elasticsearch": "^12.0.1",
-    "ember-cli-babel": "^5.1.10",
+    "ember-cli-babel": "^6.0.0",
     "ember-cli-htmlbars": "^1.1.0",
     "errorhandler": "^1.4.3",
     "es6-promise": "^4.0.5",
