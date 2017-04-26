@@ -392,7 +392,7 @@
     "rc": "^1.1.6",
     "react": "^15.3.2",
     "react-addons-css-transition-group": "^15.3.2",
-    "react-bootstrap": "^0.30.6",
+    "react-bootstrap": "^0.31.0",
     "react-dom": "^15.3.2",
     "react-redux": "^5.0.0",
     "react-router": "^4.0.0",
