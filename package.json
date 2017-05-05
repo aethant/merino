@@ -511,7 +511,7 @@
     "xmlhttprequest": "^1.8.0",
     "xtend": "^4.0.1",
     "yamljs": "^0.2.8",
-    "yargs": "^7.0.1",
+    "yargs": "^8.0.1",
     "yeoman-generator": "^1.0.0",
     "yosay": "^2.0.0",
     "zone.js": "^0.8.0"
