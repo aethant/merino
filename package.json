@@ -467,7 +467,7 @@
     "tv4": "^1.2.7",
     "twix": "^1.1.1",
     "typescript": "^2.0.3",
-    "uglify-js": "^2.7.3",
+    "uglify-js": "^3.0.0",
     "underscore": "^1.8.3",
     "underscore.string": "^3.3.4",
     "unique-random-array": "^1.0.0",
