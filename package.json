@@ -487,7 +487,7 @@
     "vinyl-fs": "^2.4.4",
     "vinyl-source-stream": "^1.1.0",
     "virtual-dom": "^2.1.1",
-    "vue": "^2.2.0",
+    "vue": "^2.3.3",
     "walk": "^2.3.9",
     "warning": "^3.0.0",
     "watch": "^1.0.1",
