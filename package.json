@@ -329,7 +329,7 @@
     "nib": "^1.1.2",
     "node-fetch": "^1.6.3",
     "node-notifier": "^5.0.2",
-    "node-sass": "^4.0.0",
+    "node-sass": "^4.5.3",
     "node-static": "^0.7.9",
     "node-uuid": "^1.4.7",
     "node.extend": "^2.0.0",
