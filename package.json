@@ -219,7 +219,7 @@
     "gulp-sass": "^3.0.0",
     "gulp-sourcemaps": "^2.1.1",
     "gulp-template": "^4.0.0",
-    "gulp-uglify": "^2.0.0",
+    "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.7",
     "gulp-watch": "^4.3.10",
     "handlebars": "^4.0.5",
