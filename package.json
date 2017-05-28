@@ -365,7 +365,7 @@
     "pg": "^6.1.0",
     "phantomjs": "^2.1.7+deprecated",
     "phantomjs-prebuilt": "^2.1.13",
-    "pify": "^2.3.0",
+    "pify": "^3.0.0",
     "pinkie-promise": "^2.0.1",
     "pkginfo": "^0.4.0",
     "plist": "^2.0.1",
