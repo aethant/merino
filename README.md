@@ -1,5 +1,7 @@
 ### Merino - a simple way to warm up your Yarn cache
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aethant/merino.svg)](https://greenkeeper.io/)
+
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.org/aethant/merino.svg?branch=master)](https://travis-ci.org/aethant/merino)
 
