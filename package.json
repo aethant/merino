@@ -70,7 +70,7 @@
     "blessed": "^0.1.81",
     "bluebird": "^3.4.6",
     "body-parser": "^1.15.2",
-    "boom": "^5.1.0",
+    "boom": "^7.2.2",
     "bootstrap": "^3.3.7",
     "bower": "^1.7.9",
     "brfs": "^1.4.3",
