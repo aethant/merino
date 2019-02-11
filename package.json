@@ -87,7 +87,7 @@
     "chalk": "^2.0.1",
     "change-case": "^3.0.0",
     "cheerio": "^0.22.0",
-    "chokidar": "^1.6.1",
+    "chokidar": "^2.1.1",
     "classnames": "^2.2.5",
     "clean-css": "^4.0.5",
     "cli": "^1.0.0",
