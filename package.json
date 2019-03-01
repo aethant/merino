@@ -460,7 +460,7 @@
     "temp": "^0.8.3",
     "text-table": "^0.2.0",
     "through": "^2.3.8",
-    "through2": "^2.0.1",
+    "through2": "^3.0.1",
     "thunkify": "^2.1.2",
     "tmp": "^0.0.31",
     "traverse": "^0.6.6",
