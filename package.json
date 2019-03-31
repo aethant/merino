@@ -99,7 +99,7 @@
     "coffee-script": "^1.11.1",
     "color": "^2.0.0",
     "colors": "^1.1.2",
-    "command-line-args": "^4.0.1",
+    "command-line-args": "^5.1.1",
     "commander": "^2.9.0",
     "component-emitter": "^1.2.1",
     "compression": "^1.6.2",
