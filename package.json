@@ -181,7 +181,7 @@
     "fstream": "^1.0.10",
     "gaze": "^1.1.2",
     "generic-pool": "^3.0.0",
-    "get-stdin": "^5.0.1",
+    "get-stdin": "^7.0.0",
     "github": "^9.0.0",
     "glob": "^7.1.1",
     "global": "^4.3.1",
