@@ -236,7 +236,7 @@
     "http-proxy": "^1.15.1",
     "hyperquest": "^2.1.0",
     "iconv-lite": "^0.4.13",
-    "image-size": "^0.6.0",
+    "image-size": "^0.7.4",
     "immutable": "^3.8.1",
     "inflection": "^1.10.0",
     "inherits": "^2.0.3",
