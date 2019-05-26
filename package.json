@@ -38,7 +38,7 @@
     "argx": "^3.0.2",
     "assert": "^1.4.1",
     "assert-plus": "^1.0.0",
-    "async": "^2.1.2",
+    "async": "^3.0.1",
     "autoprefixer": "^7.0.0",
     "aws-sdk": "^2.7.6",
     "axios": "^0.16.0",
