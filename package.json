@@ -142,7 +142,7 @@
     "ember-cli-babel": "^6.0.0",
     "ember-cli-htmlbars": "^2.0.2",
     "errorhandler": "^1.4.3",
-    "es6-promise": "^4.0.5",
+    "es6-promise": "^4.2.7",
     "es6-shim": "^0.35.1",
     "escape-html": "^1.0.3",
     "escape-string-regexp": "^1.0.5",
