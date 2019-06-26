@@ -388,7 +388,7 @@
     "querystring": "^0.2.0",
     "raf": "^3.3.0",
     "ramda": "^0.24.1",
-    "raw-body": "^2.1.7",
+    "raw-body": "^2.4.1",
     "rc": "^1.1.6",
     "react": "^15.3.2",
     "react-addons-css-transition-group": "^15.3.2",
