@@ -453,7 +453,7 @@
     "superagent": "^3.0.0",
     "swig": "^1.4.2",
     "sync-request": "^4.0.1",
-    "systemjs": "^0.20.5",
+    "systemjs": "^4.0.0",
     "tape": "^4.6.2",
     "tar": "^3.1.5",
     "tar-fs": "^1.15.1",
