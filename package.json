@@ -39,7 +39,7 @@
     "assert": "^1.4.1",
     "assert-plus": "^1.0.0",
     "async": "^2.1.2",
-    "autoprefixer": "^7.0.0",
+    "autoprefixer": "^9.6.1",
     "aws-sdk": "^2.7.6",
     "axios": "^0.16.0",
     "babel": "^6.5.2",
