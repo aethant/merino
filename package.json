@@ -288,7 +288,7 @@
     "lodash.assign": "^4.2.0",
     "lodash.defaults": "^4.2.0",
     "lodash.foreach": "^4.5.0",
-    "lodash.merge": "^4.6.0",
+    "lodash.merge": "4.6.1",
     "log-symbols": "^1.0.2",
     "log4js": "^2.0.1",
     "lru-cache": "^4.0.1",
