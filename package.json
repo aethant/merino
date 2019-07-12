@@ -370,7 +370,7 @@
     "pkginfo": "^0.4.0",
     "plist": "^2.0.1",
     "pluralize": "^5.0.0",
-    "portfinder": "^1.0.8",
+    "portfinder": "1.0.20",
     "postcss": "^6.0.0",
     "postcss-loader": "^2.0.1",
     "prettyjson": "^1.1.3",
