@@ -414,7 +414,7 @@
     "resolve": "^1.1.7",
     "restify": "^5.0.0",
     "restler": "^3.4.0",
-    "rimraf": "^2.5.4",
+    "rimraf": "^2.7.0",
     "rsvp": "^3.3.3",
     "run-sequence": "^2.0.0",
     "rx": "^4.1.0",
