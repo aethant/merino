@@ -478,7 +478,7 @@
     "url-loader": "^1.1.2",
     "util": "^0.10.3",
     "utils-merge": "^1.0.0",
-    "uuid": "^3.0.0",
+    "uuid": "^3.3.3",
     "validate.io-object": "^1.0.4",
     "validator": "^8.0.0",
     "verror": "^1.8.1",
