@@ -448,7 +448,7 @@
     "strip-ansi": "^4.0.0",
     "strip-json-comments": "^2.0.1",
     "style-loader": "^0.18.2",
-    "stylus": "^0.54.5",
+    "stylus": "0.54.5",
     "sugar": "^2.0.1",
     "superagent": "^3.0.0",
     "swig": "^1.4.2",
