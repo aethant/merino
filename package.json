@@ -475,7 +475,7 @@
     "update-notifier": "^2.1.0",
     "url": "^0.11.0",
     "url-join": "^2.0.0",
-    "url-loader": "^1.1.2",
+    "url-loader": "^2.2.0",
     "util": "^0.10.3",
     "utils-merge": "^1.0.0",
     "uuid": "^3.0.0",
