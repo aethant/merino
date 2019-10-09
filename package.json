@@ -91,7 +91,7 @@
     "classnames": "^2.2.5",
     "clean-css": "^4.0.5",
     "cli": "^1.0.0",
-    "cli-color": "^1.1.0",
+    "cli-color": "^2.0.0",
     "cli-spinner": "^0.2.5",
     "cli-table": "^0.3.1",
     "clone": "^2.0.0",
