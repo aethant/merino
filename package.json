@@ -74,7 +74,7 @@
     "bootstrap": "^3.3.7",
     "bower": "^1.7.9",
     "brfs": "^1.4.3",
-    "broccoli-funnel": "^1.0.8",
+    "broccoli-funnel": "^3.0.1",
     "broccoli-merge-trees": "^2.0.0",
     "browser-sync": "^2.17.3",
     "browserify": "^14.1.0",
