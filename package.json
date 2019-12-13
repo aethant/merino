@@ -412,7 +412,7 @@
     "require-dir": "^0.3.2",
     "requirejs": "^2.3.2",
     "resolve": "^1.1.7",
-    "restify": "^5.0.0",
+    "restify": "^8.5.1",
     "restler": "^3.4.0",
     "rimraf": "^2.5.4",
     "rsvp": "^3.3.3",
