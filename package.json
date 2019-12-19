@@ -85,7 +85,7 @@
     "canvas": "^1.6.2",
     "chai": "^4.0.1",
     "chalk": "^2.0.1",
-    "change-case": "^3.0.0",
+    "change-case": "^4.1.1",
     "cheerio": "^0.22.0",
     "chokidar": "^1.6.1",
     "classnames": "^2.2.5",
