@@ -172,7 +172,7 @@
     "flat": "^2.0.1",
     "flux": "^3.0.0",
     "font-awesome": "^4.6.3",
-    "forever": "^0.15.2",
+    "forever": "^1.0.1",
     "form-data": "^2.1.1",
     "formidable": "^1.0.17",
     "fs": "^0.0.2",
