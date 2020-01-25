@@ -89,7 +89,7 @@
     "cheerio": "^0.22.0",
     "chokidar": "^1.6.1",
     "classnames": "^2.2.5",
-    "clean-css": "^4.0.5",
+    "clean-css": "4.2.1",
     "cli": "^1.0.0",
     "cli-color": "^1.1.0",
     "cli-spinner": "^0.2.5",
