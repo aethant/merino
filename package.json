@@ -480,7 +480,7 @@
     "utils-merge": "^1.0.0",
     "uuid": "^3.0.0",
     "validate.io-object": "^1.0.4",
-    "validator": "^8.0.0",
+    "validator": "^12.2.0",
     "verror": "^1.8.1",
     "vinyl": "^2.0.0",
     "vinyl-buffer": "^1.0.0",
