@@ -402,7 +402,7 @@
     "readable-stream": "^2.1.5",
     "readline-sync": "^1.4.5",
     "recursive-readdir": "^2.1.0",
-    "redis": "^2.6.3",
+    "redis": "^3.0.1",
     "redux": "^3.6.0",
     "redux-thunk": "^2.1.0",
     "reflect-metadata": "^0.1.8",
