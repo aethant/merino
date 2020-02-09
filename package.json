@@ -276,7 +276,7 @@
     "koa-static": "^4.0.1",
     "lazy-cache": "^2.0.1",
     "leaflet": "^1.0.1",
-    "less": "^2.7.1",
+    "less": "^3.11.0",
     "less-loader": "^4.0.1",
     "level": "^1.5.0",
     "leveldown": "^1.5.0",
