@@ -406,7 +406,7 @@
     "redux": "^3.6.0",
     "redux-thunk": "^2.1.0",
     "reflect-metadata": "^0.1.8",
-    "request": "^2.75.0",
+    "request": "2.88.0",
     "request-promise": "^4.1.1",
     "require-all": "^2.0.0",
     "require-dir": "^0.3.2",
