@@ -298,7 +298,7 @@
     "markdown-it": "^9.0.0",
     "marked": "^0.3.6",
     "md5": "^2.2.1",
-    "meow": "^3.7.0",
+    "meow": "^6.0.1",
     "merge": "^1.2.0",
     "merge-stream": "^1.0.0",
     "method-override": "^2.3.6",
