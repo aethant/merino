@@ -520,7 +520,7 @@
     "coffee-script": "^1.11.1",
     "cz-conventional-changelog": "^2.0.0",
     "mocha": "^3.1.2",
-    "semantic-release": "^6.3.2"
+    "semantic-release": "^17.0.4"
   },
   "repository": {
     "type": "git",
