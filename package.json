@@ -165,7 +165,7 @@
     "extract-text-webpack-plugin": "^2.0.0",
     "falafel": "^2.0.0",
     "file-loader": "^0.11.0",
-    "filesize": "^4.0.0",
+    "filesize": "^6.1.0",
     "findit": "^2.0.0",
     "findup-sync": "^1.0.0",
     "firebase": "^5.5.3",
