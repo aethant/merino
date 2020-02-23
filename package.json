@@ -231,7 +231,7 @@
     "hogan.js": "^3.0.2",
     "html-minifier": "^3.1.0",
     "html-webpack-plugin": "^2.24.1",
-    "htmlparser2": "^3.9.2",
+    "htmlparser2": "^4.1.0",
     "http": "^0.0.0",
     "http-proxy": "^1.15.1",
     "hyperquest": "^2.1.0",
