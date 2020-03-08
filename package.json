@@ -337,7 +337,7 @@
     "nodemailer": "^5.0.0",
     "nodemon": "^1.11.0",
     "nomnom": "^1.8.1",
-    "nopt": "^4.0.0",
+    "nopt": "^4.0.3",
     "normalize.css": "^7.0.0",
     "npm": "^6.5.0",
     "npmlog": "^4.0.0",
