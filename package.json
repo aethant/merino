@@ -347,7 +347,7 @@
     "object-assign": "^4.1.0",
     "on-finished": "^2.3.0",
     "once": "^1.4.0",
-    "open": "^6.0.0",
+    "open": "^7.0.3",
     "opener": "^1.4.2",
     "opn": "^5.0.0",
     "optimist": "^0.6.1",
