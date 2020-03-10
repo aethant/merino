@@ -506,7 +506,7 @@
     "ws": "^6.1.0",
     "xml2js": "^0.4.17",
     "xml2json": "^0.11.0",
-    "xmlbuilder": "^10.1.0",
+    "xmlbuilder": "^15.0.0",
     "xmldom": "^0.1.22",
     "xmlhttprequest": "^1.8.0",
     "xtend": "^4.0.1",
