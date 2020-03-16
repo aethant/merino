@@ -259,7 +259,7 @@
     "json-loader": "^0.5.4",
     "json-stable-stringify": "^1.0.1",
     "json-stringify-safe": "^5.0.1",
-    "json5": "^0.5.0",
+    "json5": "^2.1.2",
     "jsonfile": "^3.0.0",
     "jsonschema": "^1.1.0",
     "jsonwebtoken": "^7.1.9",
