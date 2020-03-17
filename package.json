@@ -342,7 +342,7 @@
     "npm": "^6.5.0",
     "npmlog": "^4.0.0",
     "numeral": "^2.0.0",
-    "nunjucks": "^3.0.0",
+    "nunjucks": "^3.2.1",
     "oauth": "^0.9.14",
     "object-assign": "^4.1.0",
     "on-finished": "^2.3.0",
