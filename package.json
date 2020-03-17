@@ -190,7 +190,7 @@
     "googleapis": "^20.0.1",
     "got": "^7.1.0",
     "graceful-fs": "^4.1.9",
-    "grunt": "^1.0.1",
+    "grunt": "1.0.4",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-concat": "^1.0.1",
