@@ -168,7 +168,7 @@
     "filesize": "^4.0.0",
     "findit": "^2.0.0",
     "findup-sync": "^1.0.0",
-    "firebase": "^5.5.3",
+    "firebase": "^7.13.1",
     "flat": "^2.0.1",
     "flux": "^3.0.0",
     "font-awesome": "^4.6.3",
