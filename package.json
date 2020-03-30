@@ -362,7 +362,7 @@
     "path": "^0.12.7",
     "path-exists": "^3.0.0",
     "path-to-regexp": "^1.6.0",
-    "pg": "^6.1.0",
+    "pg": "^8.0.0",
     "phantomjs": "^2.1.7+deprecated",
     "phantomjs-prebuilt": "^2.1.13",
     "pify": "^3.0.0",
