@@ -40,7 +40,7 @@
     "assert-plus": "^1.0.0",
     "async": "^2.1.2",
     "autoprefixer": "^7.0.0",
-    "aws-sdk": "^2.7.6",
+    "aws-sdk": "^2.654.0",
     "axios": ">=0.18.1",
     "babel": "^6.5.2",
     "babel-cli": "^6.16.0",
