@@ -512,7 +512,7 @@
     "xtend": "^4.0.1",
     "yamljs": "^0.3.0",
     "yargs": "^8.0.1",
-    "yeoman-generator": "^1.0.0",
+    "yeoman-generator": "^4.8.0",
     "yosay": "^2.0.0",
     "zone.js": "^0.8.0"
   },
