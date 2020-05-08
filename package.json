@@ -494,7 +494,7 @@
     "watchify": "^3.7.0",
     "webpack": "^3.1.0",
     "webpack-dev-middleware": "^1.8.4",
-    "webpack-dev-server": ">=3.1.11",
+    "webpack-dev-server": ">=3.11.0",
     "webpack-hot-middleware": "^2.13.1",
     "websocket": "^1.0.23",
     "whatwg-fetch": "^2.0.0",
