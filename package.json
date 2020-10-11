@@ -136,7 +136,7 @@
     "diff": "^3.0.1",
     "dot": "^1.0.3",
     "dotenv": "^4.0.0",
-    "download": "^6.0.0",
+    "download": "^8.0.0",
     "ejs": "^2.5.2",
     "elasticsearch": "^13.0.0",
     "ember-cli-babel": "^7.1.3",
