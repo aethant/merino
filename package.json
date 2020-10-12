@@ -103,7 +103,7 @@
     "commander": "^2.9.0",
     "component-emitter": "^1.2.1",
     "compression": "^1.6.2",
-    "concat-stream": "^1.5.2",
+    "concat-stream": "^2.0.0",
     "config": "^1.21.0",
     "connect": "^3.5.0",
     "connect-flash": "^0.1.1",
