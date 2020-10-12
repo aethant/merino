@@ -145,7 +145,7 @@
     "es6-promise": "^4.0.5",
     "es6-shim": "^0.35.1",
     "escape-html": "^1.0.3",
-    "escape-string-regexp": "^1.0.5",
+    "escape-string-regexp": "^2.0.0",
     "escodegen": "^1.8.1",
     "eslint": "^4.2.0",
     "eslint-config-airbnb": "^15.0.2",
