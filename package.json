@@ -409,7 +409,7 @@
     "request": "^2.75.0",
     "request-promise": "^4.1.1",
     "require-all": "^2.0.0",
-    "require-dir": "^0.3.2",
+    "require-dir": "^1.2.0",
     "requirejs": "^2.3.2",
     "resolve": "^1.1.7",
     "restify": "^5.0.0",
