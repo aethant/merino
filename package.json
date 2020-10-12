@@ -205,7 +205,7 @@
     "gulp-conflict": "^0.4.0",
     "gulp-eslint": "^4.0.0",
     "gulp-filter": "^5.0.0",
-    "gulp-if": "^2.0.1",
+    "gulp-if": "^3.0.0",
     "gulp-imagemin": "^3.1.0",
     "gulp-install": "^1.1.0",
     "gulp-jshint": "^2.0.1",
