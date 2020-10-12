@@ -489,7 +489,7 @@
     "virtual-dom": "^2.1.1",
     "vue": "^2.2.0",
     "walk": "^2.3.9",
-    "warning": "^3.0.0",
+    "warning": "^4.0.3",
     "watch": "^1.0.1",
     "watchify": "^3.7.0",
     "webpack": "^3.1.0",
