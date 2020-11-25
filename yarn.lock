@@ -6971,9 +6971,9 @@ highland:
   dependencies:
     util-deprecate "^1.0.2"
 
-highlight.js:
-  version "9.7.0"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.7.0.tgz#e7a926bf3079c65b2ae50314878e456a009b4aac"
+highlight.js@^10.0.0:
+  version "10.1.2"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.1.2.tgz#c20db951ba1c22c055010648dfffd7b2a968e00c"
 
 hiredis:
   version "0.5.0"
