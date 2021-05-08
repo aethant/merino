@@ -2418,11 +2418,11 @@ caniuse-db@^1.0.30000539, caniuse-db@^1.0.30000554:
   version "1.0.30000559"
   resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000559.tgz#afbd68916dd23bfd549c26520c78631fb5e2e393"
 
-canvas:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/canvas/-/canvas-1.6.0.tgz#7cb6cdd73ebdca7dc6053249626d7e798dfde176"
+canvas@^1.6.2:
+  version "1.6.11"
+  resolved "https://registry.yarnpkg.com/canvas/-/canvas-1.6.11.tgz#c2d8bcf283281f19ded14fa163a111804522330d"
   dependencies:
-    nan "^2.3.2"
+    nan "^2.10.0"
 
 capture-stack-trace@^1.0.0:
   version "1.0.0"
@@ -9924,13 +9924,17 @@ mz, mz@^2.3.1:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-nan, nan@^2.0.7, nan@^2.0.8, nan@^2.2.0, nan@^2.3.0, nan@^2.3.2, nan@^2.3.3, nan@^2.3.4, nan@^2.3.5, nan@~2.4.0:
+nan, nan@~2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.4.0.tgz#fb3c59d45fe4effe215f0b890f8adf6eb32d2232"
 
 nan@2.3.5, nan@~2.3.3:
   version "2.3.5"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.3.5.tgz#822a0dc266290ce4cd3a12282ca3e7e364668a08"
+
+nan@^2.0.7, nan@^2.0.8, nan@^2.10.0, nan@^2.2.0, nan@^2.3.0, nan@^2.3.2, nan@^2.3.3, nan@^2.3.4, nan@^2.3.5:
+  version "2.14.2"
+  resolved "https://registry.yarnpkg.com/nan/-/nan-2.14.2.tgz#f5376400695168f4cc694ac9393d0c9585eeea19"
 
 natives@^1.1.0:
   version "1.1.0"
