@@ -15109,9 +15109,9 @@ validate.io-object:
   dependencies:
     validate.io-array "^1.0.1"
 
-validator:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-6.1.0.tgz#39aab9a3a5724399a164bda4f5cf9261bb7d0e76"
+validator@^13.7.0:
+  version "13.7.0"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-13.7.0.tgz#4f9658ba13ba8f3d82ee881d3516489ea85c0857"
 
 validator@^5.2.0:
   version "5.7.0"
