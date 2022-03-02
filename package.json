@@ -368,7 +368,7 @@
     "pify": "^3.0.0",
     "pinkie-promise": "^2.0.1",
     "pkginfo": "^0.4.0",
-    "plist": "^2.0.1",
+    "plist": "^3.0.4",
     "pluralize": "^5.0.0",
     "portfinder": "^1.0.8",
     "postcss": "^6.0.0",
