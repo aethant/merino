@@ -10,9 +10,11 @@
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-2.1.0.tgz#1388e1b6adadb4495e1cb5f0fa5322728de0d003"
 
-"@angular/core":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.1.0.tgz#a2fdb0f76f72e5ac521feadd4d119f60afff2bd3"
+"@angular/core@^11.0.5":
+  version "11.0.5"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-11.0.5.tgz#b8c448c3cd4f6dae7327cc1ba4ee2aa29c8dbc26"
+  dependencies:
+    tslib "^2.0.0"
 
 "@angular/forms":
   version "2.1.0"
@@ -14590,6 +14592,10 @@ tryit@^1.0.1:
 tryor@~0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/tryor/-/tryor-0.1.2.tgz#8145e4ca7caff40acde3ccf946e8b8bb75b4172b"
+
+tslib@^2.0.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
 
 tty-browserify@0.0.0, tty-browserify@~0.0.0:
   version "0.0.0"
