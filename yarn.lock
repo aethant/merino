@@ -9745,15 +9745,19 @@ module-deps@^4.0.2:
     through2 "^2.0.0"
     xtend "^4.0.0"
 
-moment, moment@2.x.x, "moment@>= 2.6.0", moment@^2.10.6, moment@^2.13.0:
+moment:
   version "2.15.1"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.15.1.tgz#e979c2a29e22888e60f396f2220a6118f85cd94c"
 
-moment-timezone, moment-timezone@^0.5.4, moment-timezone@~0.5.5:
-  version "0.5.6"
-  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.6.tgz#8dcf7bb648d5dcd0f387d6bfd8f3dd9bbba16a86"
+moment-timezone@^0.5.4, moment-timezone@^0.5.6, moment-timezone@~0.5.5:
+  version "0.5.35"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.35.tgz#6fa2631bdbe8ff04f6b8753f7199516be6dc9839"
   dependencies:
-    moment ">= 2.6.0"
+    moment ">= 2.9.0"
+
+moment@2.x.x, "moment@>= 2.9.0", moment@^2.10.6, moment@^2.13.0:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
 
 mongodb, mongodb@2.2.10, "mongodb@>= 1.2.0 <3.0.0":
   version "2.2.10"
