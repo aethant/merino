@@ -3240,10 +3240,6 @@ core-js@^1.0.0:
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-1.2.7.tgz#652294c14651db28fa93bd2d5ff2983a4f08c636"
 
-core-js@~2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.3.0.tgz#fab83fbb0b2d8dc85fa636c4b9d34c75420c6d65"
-
 core-util-is@1.0.2, core-util-is@^1.0.1, core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
@@ -4726,10 +4722,6 @@ es6-promise@3.2.1:
 es6-promise@^3.0.2:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/es6-promise/-/es6-promise-3.3.1.tgz#a08cdde84ccdbf34d027a1451bc91d4bcd28a613"
-
-es6-promise@~3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/es6-promise/-/es6-promise-3.0.2.tgz#010d5858423a5f118979665f46486a95c6ee2bb6"
 
 es6-set@~0.1.3:
   version "0.1.4"
@@ -8259,15 +8251,14 @@ jsx-ast-utils@^1.0.0, jsx-ast-utils@^1.3.1:
     acorn-jsx "^3.0.1"
     object-assign "^4.1.0"
 
-jszip:
-  version "3.1.3"
-  resolved "https://registry.yarnpkg.com/jszip/-/jszip-3.1.3.tgz#8a920403b2b1651c0fc126be90192d9080957c37"
+jszip@^3.1.3:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/jszip/-/jszip-3.7.0.tgz#9b8b995a4e7c9024653ce743e902076a82fdf4e6"
   dependencies:
-    core-js "~2.3.0"
-    es6-promise "~3.0.2"
-    lie "~3.1.0"
+    lie "~3.3.0"
     pako "~1.0.2"
-    readable-stream "~2.0.6"
+    readable-stream "~2.3.6"
+    set-immediate-shim "~1.0.1"
 
 jwa@^1.1.2:
   version "1.1.3"
@@ -8647,9 +8638,9 @@ lie@3.0.2:
     inline-process-browser "^1.0.0"
     unreachable-branch-transform "^0.3.0"
 
-lie@^3.1.0, lie@~3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/lie/-/lie-3.1.0.tgz#65e0139eaef9ae791a1f5c8c53692c8d3b4718f4"
+lie@^3.1.0, lie@~3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/lie/-/lie-3.3.0.tgz#dcf82dee545f46074daf200c7c1c5a08e0f40f6a"
   dependencies:
     immediate "~3.0.5"
 
@@ -11626,6 +11617,10 @@ process-nextick-args@^1.0.6, process-nextick-args@^1.0.7, process-nextick-args@~
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-1.0.7.tgz#150e20b756590ad3f91093f25a4f2ad8bff30ba3"
 
+process-nextick-args@~2.0.0:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
+
 process@^0.11.0, process@^0.11.1, process@~0.11.0:
   version "0.11.9"
   resolved "https://registry.yarnpkg.com/process/-/process-0.11.9.tgz#7bd5ad21aa6253e7da8682264f1e11d11c0318c1"
@@ -12211,7 +12206,7 @@ read-pkg@^1.0.0:
     normalize-package-data "^2.3.2"
     path-type "^1.0.0"
 
-readable-stream, "readable-stream@1 || 2", readable-stream@2.1.5, "readable-stream@> 1.0.0 < 3.0.0", readable-stream@^2.0.0, "readable-stream@^2.0.0 || ^1.1.13", readable-stream@^2.0.1, readable-stream@^2.0.2, readable-stream@^2.0.4, readable-stream@^2.0.5, readable-stream@^2.1.0, readable-stream@~2.1.4, readable-stream@~2.1.5:
+readable-stream, readable-stream@2.1.5, readable-stream@~2.1.4, readable-stream@~2.1.5:
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.1.5.tgz#66fa8b720e1438b364681f2ad1a63c618448c9d0"
   dependencies:
@@ -12223,6 +12218,18 @@ readable-stream, "readable-stream@1 || 2", readable-stream@2.1.5, "readable-stre
     string_decoder "~0.10.x"
     util-deprecate "~1.0.1"
 
+"readable-stream@1 || 2", "readable-stream@> 1.0.0 < 3.0.0", readable-stream@^2.0.0, "readable-stream@^2.0.0 || ^1.1.13", readable-stream@^2.0.1, readable-stream@^2.0.2, readable-stream@^2.0.4, readable-stream@^2.0.5, readable-stream@^2.1.0, readable-stream@~2.3.6:
+  version "2.3.7"
+  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.3.7.tgz#1eca1cf711aef814c04f62252a36a62f6cb23b57"
+  dependencies:
+    core-util-is "~1.0.0"
+    inherits "~2.0.3"
+    isarray "~1.0.0"
+    process-nextick-args "~2.0.0"
+    safe-buffer "~5.1.1"
+    string_decoder "~1.1.1"
+    util-deprecate "~1.0.1"
+
 readable-stream@1.0, "readable-stream@>=1.0.33-1 <1.1.0-0", readable-stream@~1.0.0, readable-stream@~1.0.17, readable-stream@~1.0.2, readable-stream@~1.0.26, readable-stream@~1.0.27-1, readable-stream@~1.0.31:
   version "1.0.34"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-1.0.34.tgz#125820e34bc842d2f2aaafafe4c2916ee32c157c"
@@ -12232,16 +12239,7 @@ readable-stream@1.0, "readable-stream@>=1.0.33-1 <1.1.0-0", readable-stream@~1.0
     isarray "0.0.1"
     string_decoder "~0.10.x"
 
-readable-stream@1.1:
-  version "1.1.13"
-  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-1.1.13.tgz#f6eef764f514c89e2b9e23146a75ba106756d23e"
-  dependencies:
-    core-util-is "~1.0.0"
-    inherits "~2.0.1"
-    isarray "0.0.1"
-    string_decoder "~0.10.x"
-
-readable-stream@1.1.14, readable-stream@1.1.x, "readable-stream@1.x >=1.1.9", readable-stream@^1.0.27-1, readable-stream@^1.0.33, readable-stream@^1.1.12, readable-stream@^1.1.13, readable-stream@~1.1.9:
+readable-stream@1.1, readable-stream@1.1.14, readable-stream@1.1.x, "readable-stream@1.x >=1.1.9", readable-stream@^1.0.27-1, readable-stream@^1.0.33, readable-stream@^1.1.12, readable-stream@^1.1.13, readable-stream@~1.1.9:
   version "1.1.14"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-1.1.14.tgz#7cf4c54ef648e3813084c636dd2079e166c081d9"
   dependencies:
@@ -12250,7 +12248,7 @@ readable-stream@1.1.14, readable-stream@1.1.x, "readable-stream@1.x >=1.1.9", re
     isarray "0.0.1"
     string_decoder "~0.10.x"
 
-readable-stream@~2.0.0, readable-stream@~2.0.5, readable-stream@~2.0.6:
+readable-stream@~2.0.0, readable-stream@~2.0.5:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.0.6.tgz#8f90341e68a53ccc928788dacfcd11b36eb9b78e"
   dependencies:
@@ -12983,6 +12981,10 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.2:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.2.0.tgz#b74daec49b1148f88c64b68d49b1e815c1f2f519"
 
+safe-buffer@~5.1.0, safe-buffer@~5.1.1:
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.2.tgz#991ec69d296e0313747d59bdfd2b745c35f8828d"
+
 safe-json-stringify@~1:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/safe-json-stringify/-/safe-json-stringify-1.0.3.tgz#3cb6717660a086d07cb5bd9b7a6875bcf67bd05e"
@@ -13206,7 +13208,7 @@ set-getter@^0.1.0:
   dependencies:
     to-object-path "^0.3.0"
 
-set-immediate-shim@^1.0.0, set-immediate-shim@^1.0.1:
+set-immediate-shim@^1.0.0, set-immediate-shim@^1.0.1, set-immediate-shim@~1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/set-immediate-shim/-/set-immediate-shim-1.0.1.tgz#4b2b1b27eb808a9f8dcc481a58e5e56f599f3f61"
 
@@ -13923,6 +13925,12 @@ string.prototype.trim@~1.1.2:
 string_decoder@~0.10.0, string_decoder@~0.10.25, string_decoder@~0.10.x:
   version "0.10.31"
   resolved "https://registry.yarnpkg.com/string_decoder/-/string_decoder-0.10.31.tgz#62e203bc41766c6c28c9fc84301dab1c5310fa94"
+
+string_decoder@~1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/string_decoder/-/string_decoder-1.1.1.tgz#9cf1611ba62685d7030ae9e4ba34149c3af03fc8"
+  dependencies:
+    safe-buffer "~5.1.0"
 
 stringmap@~0.2.2:
   version "0.2.2"
